@@ -1,5 +1,3 @@
-for use with stylus
-
 - channels expand on hover
 - users list expand on hover
 
